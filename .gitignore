@@ -4,3 +4,5 @@ features.csv
 roc_curve.png
 __pycache__/
 *.pyc
+roc_comparison.png
+feature_importance.png
