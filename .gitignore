@@ -1,5 +1,6 @@
 venv/
 data/
 features.csv
+roc_curve.png
 __pycache__/
 *.pyc
