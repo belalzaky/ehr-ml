@@ -2,8 +2,7 @@
 
 Building a machine learning pipeline on the Synthea synthetic EHR dataset — from raw clinical tables to a trained, evaluated, and honestly interpreted hypertension risk model. Every modelling decision is explained from first principles, and every limitation is named rather than hidden.
 
-> First-year Pharmacology student at King's College London, building data skills in public.  
-> Write-ups: [belalzaky.substack.com](https://belalzaky.substack.com) · [LinkedIn](https://www.linkedin.com/in/belalzaky)
+> Pharmacology BSc at King's College London. Full write-up and interactive version: [belalzaky.uk](https://belalzaky.uk) · [Substack](https://belalzaky.substack.com) · [LinkedIn](https://www.linkedin.com/in/belalzaky)
 
 ---
 
